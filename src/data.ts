@@ -35,7 +35,7 @@ export const data: Data = {
     {
       id: 'uuid3',
       source: 'Food',
-      amount: 5000,
+      amount: 500,
       created_at: new Date(),
       updated_at: new Date(),
       type: ReportType.EXPENSE,
